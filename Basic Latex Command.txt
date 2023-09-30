@@ -1,0 +1,29 @@
+underline with color	= \underline{\textcolor{blue}{wazir}}	
+33%		=	33\%
+[1,2]		=	\cite{stankovic2003haar,zeiler2011adaptive}
+[1-7]		=	\cite{kim2016accurate,kim2016deeply,lai2017deep,ledig2017photo,lim2017enhanced,tai2017image}
+3 x 3		=	$3\times 3$
+3x3x1		=	$3\times 3\times1$
+Subscript	=	Y_{3}
+Superscript	=	Y^{3}
+N2		=	$N_2$
+100th		=	100\textsuperscript{th}
+1st		=	$1^{st}$
+ith		=	$i^{th}$
+4x		=	$4\times$
+Red Color	=	\textcolor{red}{wazir}
+Blue Color	=	\textcolor{blue}{wazir}
+Bold with color	=	\textbf{\textcolor{red}{wazir}}
+Bold		=	\textbf{wazir}
+Italic		=	\textit{et al.}
+Theta		=	$\theta$
+Infinity	=	$\infty$
+(wazir)		=	\big(wazir\big)
+(x,y)		=	$(x,y)$
+summation	=	\begin{equation}
+			L(\theta) = \frac{1}{N}\sum_{i=1}^{N}\norm{F(y^i;\theta)-x^i}^2\\
+			\end{equation}
+$\mu$'s		=	mu's
+Multiple line comments	=	\begin{comment}	
+				Commented code
+				\end{comment}
